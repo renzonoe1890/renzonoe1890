@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi , I'm RENZO 👋
+
+const RenzoNoe1890 = {
+
+    tecnologies: 'web'
+    
+    passions :[Javascript, HTML , CSS]
+    
+    }
+You can find me :
+@
+mail:renzo.noe1890@gmail.com
+    
 
 <!--
 **renzonoe1890/renzonoe1890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
